@@ -1,0 +1,7 @@
+-r-xr-xr-x 1 root root 8.4M Jan 26  2024 /mnt/c/Users/alvin/Music/01 Long Time (Intro).mp3
+-r-xr-xr-x 1 root root 7.6M Jan 26  2024 /mnt/c/Users/alvin/Music/02 R.I.P.mp3
+-r-xr-xr-x 1 root root 7.1M Jan 26  2024 /mnt/c/Users/alvin/Music/03 Lean 4 Real.mp3
+-r-xr-xr-x 1 root root 5.5M Jan 26  2024 /mnt/c/Users/alvin/Music/04 Old Money.mp3
+-r-xr-xr-x 1 root root 7.2M Jan 26  2024 /mnt/c/Users/alvin/Music/05 Love Hurts.mp3
+-r-xr-xr-x 1 root root 6.2M Jan 26  2024 /mnt/c/Users/alvin/Music/06 Shoota.mp3
+-r-xr-xr-x 1 root root 8.2M Jan 26  2024 /mnt/c/Users/alvin/Music/07 Right Now.mp3
